@@ -1,0 +1,17 @@
+/venv/
+/sourse/
+/dist/
+/build/
+/venv_/
+/operator_list.csv
+/operator_list_test.csv
+/result_numbers_file_april.xlsx
+/result_numbers_file_may.xlsx
+/result_time_file_april.xlsx
+/result_time_file_may.xlsx
+/dsn_logo.ico
+/tasks_april.csv
+/tasks_may.csv
+/tasks_may_test.csv
+/test.csv
+/test.py
